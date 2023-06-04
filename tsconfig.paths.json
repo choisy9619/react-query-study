@@ -1,0 +1,57 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@aliases/*": [
+        "./src/aliases/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@constants/*": [
+        "./src/constants/*"
+      ],
+      "@contents/*": [
+        "./src/contents/*"
+      ],
+      "@enums/*": [
+        "./src/enums/*"
+      ],
+      "@hocs/*": [
+        "./src/hocs/*"
+      ],
+      "@hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@interfaces/*": [
+        "./src/interfaces/*"
+      ],
+      "@layouts/*": [
+        "./src/layouts/*"
+      ],
+      "@libs/*": [
+        "./src/libs/*"
+      ],
+      "@middlewares/*": [
+        "./src/middlewares/*"
+      ],
+      "@pages/*": [
+        "./src/pages/*"
+      ],
+      "@parts/*": [
+        "./src/parts/*"
+      ],
+      "@static/*": [
+        "./public/static/*"
+      ],
+      "@styles/*": [
+        "./src/styles/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ]
+    }
+  }
+}
